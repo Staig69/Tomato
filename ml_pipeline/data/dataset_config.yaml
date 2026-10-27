@@ -1,0 +1,15 @@
+path: ./data
+val: val/images
+train: train/images
+test: test/images
+
+nc: 8
+names:
+  0: bacterial_spot
+  1: early_blight
+  2: healthy
+  3: late_blight
+  4: powdery_mildew
+  5: septoria
+  6: mosaic
+  7: wilt

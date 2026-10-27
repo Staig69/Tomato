@@ -1,0 +1,15 @@
+#Main library for YOLO training ans export
+ultralytics==8.4.184
+
+#Work with images and matrices
+opencv-python==5.0.0.93
+pillow==13.0.0
+numpy==2.5.4
+
+#Data analysis, graphs
+pandas==2.2.2
+matplotlib==3.11.2
+seaborn==0.13.2
+
+#Tools to convert to TFLite and CoreML
+onnx==1.16.1
